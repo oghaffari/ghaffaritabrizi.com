@@ -18,7 +18,7 @@
               <a class="usa-footer__primary-link" href="https://github.com/oghaffari" alt="A link to my GitHub profile." target="_blank" rel="noopener noreferrer">GitHub</a>
             </li>
             <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
-              <a class="usa-footer__primary-link" href="https://github.com/oghaffari/ghaffaritabrizi.com" alt="A link to my GitHub profile." target="_blank" rel="noopener noreferrer">Repo</a>
+              <a class="usa-footer__primary-link" href="https://github.com/oghaffari/ghaffaritabrizi.com" alt="A link to the GitHub repository for this website." target="_blank" rel="noopener noreferrer">Repo</a>
             </li>
           </ul>
         </nav>

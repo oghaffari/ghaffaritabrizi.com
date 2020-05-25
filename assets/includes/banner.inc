@@ -24,7 +24,7 @@
                 <p>
                   <strong>The ghaffaritabrizi.com means it’s official.</strong>
                   <br>
-                  If the URL are visiting is different, it isn't controled by me. Before sharing any information, make sure you’re on my actual website.
+                  If the URL you are visiting is different, it isn't controlled by me. Before sharing any information, make sure you’re on my actual website.
                 </p>
               </div>
             </div>

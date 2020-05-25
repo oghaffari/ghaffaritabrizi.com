@@ -16,7 +16,9 @@
             <p>These are the things I've done to make sure my mom has something to brag about.</p>
             <p>
               <ul>
+                <li><a href="https://governmentciomedia.com/how-emerging-tech-can-improve-federal-acquisition-processes" alt="" target="_blank" rel="noopener noreferrer">May 21, 2020 - How Emerging Tech Can Improve Federal Acquisition Processes</a></li>
                 <li><a href="https://www.actiac.org/events/emerging-technology-and-workforce-effecting-or-affected-question" alt="" target="_blank" rel="noopener noreferrer">May 20, 2020 - Emerging Technology and the Workforce: Effecting or Affected? That is the Question</a></li>
+                <li><a href="https://www.meritalk.com/articles/improving-the-federal-acquisition-process-through-modern-techniques/" alt="" target="_blank" rel="noopener noreferrer">May 19, 2020 - Improving the Federal Acquisition Process Through Modern Techniques</a></li>
                 <li><a href="https://www.actiac.org/events/act-iac-emerging-technology-coi-may-2020" alt="" target="_blank" rel="noopener noreferrer">May 19, 2020 - Emerging Technology Uses Cases in Acquisition</a></li>
                 <li><a href="https://governmentciomedia.com/listen-gsa-centers-excellence-ai-leaders-omid-ghaffari-tabrizi-krista-kinnard" alt="" target="_blank" rel="noopener noreferrer">May 13, 2020 - GovernmentCIO GovCast Podcast: Season 3, Episode 15</a></li>
                 <li><a href="https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/" alt="" target="_blank" rel="noopener noreferrer">April 24, 2020 - Experimenting with the Micro-Purchase Threshold</a></li>

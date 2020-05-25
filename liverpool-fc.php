@@ -10,7 +10,7 @@ date_default_timezone_set('America/Detroit');
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>USWDS Fractal example document</title>
+    <title>Liverpool FC</title>
     <link rel="stylesheet" href="assets/uswds/css/uswds.min.css">
     <link rel="stylesheet" href="assets/css/omid.css">
   </head>
