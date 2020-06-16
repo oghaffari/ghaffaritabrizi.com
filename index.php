@@ -11,8 +11,9 @@ date_default_timezone_set('America/Detroit');
       include("assets/includes/meta.inc");
     ?>
     <title>Omid Ghaffari-Tabrizi</title>
-    <link rel="stylesheet" href="assets/uswds/css/uswds.min.css">
-    <link rel="stylesheet" href="assets/css/omid.css">
+    <?php
+      include("assets/includes/css.inc");
+    ?>
   </head>
   <body>
     <?php

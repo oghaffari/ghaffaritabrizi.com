@@ -4,9 +4,9 @@
           <div class="usa-layout-docs__sidenav desktop:grid-col-3">
             <nav aria-label="Secondary navigation">
               <ul class="usa-sidenav">
-                <li class="usa-sidenav__item"><a href="/" alt="The home page and where I provide a little information about myself.">About Me</a></li>
-                <li class="usa-sidenav__item"><a href="liverpool-fc.php" alt="A page that has a few quotes and things I like related to Liverpool FC.">Liverpool FC</a></li>
-                <li class="usa-sidenav__item"><a href="make-mom-proud.php" alt="Media and other mentions of my work that made my mom proud of me.">Make Mom Proud</a></li>
+                <li class="usa-sidenav__item"><a href="<?php echo $path;?>" alt="The home page and where I provide a little information about myself.">About Me</a></li>
+                <li class="usa-sidenav__item"><a href="<?php echo $path;?>liverpool-fc/" alt="A page that has a few quotes and things I like related to Liverpool FC.">Liverpool FC</a></li>
+                <li class="usa-sidenav__item"><a href="<?php echo $path;?>make-mom-proud/" alt="Media and other mentions of my work that made my mom proud of me.">Make Mom Proud</a></li>
               </ul>
             </nav>
           </div>

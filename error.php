@@ -11,8 +11,8 @@ date_default_timezone_set('America/Detroit');
       include("assets/includes/meta.inc");
     ?>
     <title>Something didn't work</title>
-    <link rel="stylesheet" href="assets/uswds/css/uswds.min.css">
-    <link rel="stylesheet" href="assets/css/omid.css">
+    <link rel="stylesheet" href="https://www.ghaffaritabrizi.com/assets/uswds/css/uswds.min.css">
+    <link rel="stylesheet" href="https://www.ghaffaritabrizi.com/assets/css/omid.css">
   </head>
   <body>
     <?php

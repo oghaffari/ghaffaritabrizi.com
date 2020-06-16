@@ -11,10 +11,12 @@ date_default_timezone_set('America/Detroit');
       include("assets/includes/meta.inc");
     ?>
     <title>Making Mom Proud</title>
-    <link rel="stylesheet" href="assets/uswds/css/uswds.min.css">
-    <link rel="stylesheet" href="assets/css/omid.css">
+    <?php
+      include("assets/includes/css.inc");
+    ?>
   </head>
   <body>
+    
     <?php
       include("assets/includes/banner.inc");
       include("assets/includes/header-others.inc");

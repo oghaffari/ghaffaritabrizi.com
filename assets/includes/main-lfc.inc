@@ -4,9 +4,9 @@
           <div class="usa-layout-docs__sidenav desktop:grid-col-3">
             <nav aria-label="Secondary navigation">
               <ul class="usa-sidenav">
-                <li class="usa-sidenav__item"><a href="/" alt="The home page and where I provide a little information about myself.">About Me</a></li>
-                <li class="usa-sidenav__item"><a href="liverpool-fc.php" alt="A page that has a few quotes and things I like related to Liverpool FC.">Liverpool FC</a></li>
-                <li class="usa-sidenav__item"><a href="make-mom-proud.php" alt="Media and other mentions of my work that made my mom proud of me.">Make Mom Proud</a></li>
+                <li class="usa-sidenav__item"><a href="<?php echo $path;?>" alt="The home page and where I provide a little information about myself.">About Me</a></li>
+                <li class="usa-sidenav__item"><a href="<?php echo $path;?>liverpool-fc/" alt="A page that has a few quotes and things I like related to Liverpool FC.">Liverpool FC</a></li>
+                <li class="usa-sidenav__item"><a href="<?php echo $path;?>make-mom-proud/" alt="Media and other mentions of my work that made my mom proud of me.">Make Mom Proud</a></li>
               </ul>
             </nav>
           </div>
@@ -14,7 +14,7 @@
             <h1>Liverpool FC</h1>
             <p class="usa-intro">The Greatest Team to Ever Play the Game</p>
             <p>I am a huge Liverpool FC fan. This page has a few quotes that reflect why I love the team as much as I do. Never Give Up.</p>
-            <p><img src="assets/images/lfc.jpg" alt="An amazing picture of Liverpool FC capitans holding up the Champions League trophy."></p>
+            <p><img src="<?php echo $path;?>assets/images/lfc.jpg" alt="An amazing picture of Liverpool FC capitans holding up the Champions League trophy."></p>
             <h2 id="section-heading-h2">In the footsteps of giants</h2>
             <p>
               <blockquote>Liverpool was made for me and I was made for Liverpool.</blockquote><br/>
@@ -40,7 +40,7 @@
             <p>
               My friend, <a href="http://marcoislandlaw.com/" alt=""  target="_blank" rel="noopener noreferrer">Peter Huy</a>, has gone to Anfield and seen some of the greatest games in LFC's recent history. He will never let me forget that he not only went before I did, but probably can never go again because nothing will top his experiences.
             </p>
-            <p><a href="assets/images/lfc-barca-program.jpg" alt="A link to the full size photo of the actual program from the game Liverpool beat Barcelona." target="_blank" rel="noopener noreferrer"><img src="assets/images/lfc-barca-program.jpg" alt="A picture of the actual program from the game Liverpool beat Barcelona." class="lfc-photo" /></a></p>
+            <p><a href="<?php echo $path;?>assets/images/lfc-barca-program.jpg" alt="A link to the full size photo of the actual program from the game Liverpool beat Barcelona." target="_blank" rel="noopener noreferrer"><img src="<?php echo $path;?>assets/images/lfc-barca-program.jpg" alt="A picture of the actual program from the game Liverpool beat Barcelona." class="lfc-photo" /></a></p>
           </main>
         </div>
       </div>

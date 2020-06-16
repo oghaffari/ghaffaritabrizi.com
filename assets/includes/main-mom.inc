@@ -4,9 +4,9 @@
           <div class="usa-layout-docs__sidenav desktop:grid-col-3">
             <nav aria-label="Secondary navigation">
               <ul class="usa-sidenav">
-                <li class="usa-sidenav__item"><a href="/" alt="The home page and where I provide a little information about myself.">About Me</a></li>
-                <li class="usa-sidenav__item"><a href="liverpool-fc.php" alt="A page that has a few quotes and things I like related to Liverpool FC.">Liverpool FC</a></li>
-                <li class="usa-sidenav__item"><a href="make-mom-proud.php" alt="Media and other mentions of my work that made my mom proud of me.">Make Mom Proud</a></li>
+                <li class="usa-sidenav__item"><a href="<?php echo $path;?>" alt="The home page and where I provide a little information about myself.">About Me</a></li>
+                <li class="usa-sidenav__item"><a href="<?php echo $path;?>liverpool-fc/" alt="A page that has a few quotes and things I like related to Liverpool FC.">Liverpool FC</a></li>
+                <li class="usa-sidenav__item"><a href="<?php echo $path;?>make-mom-proud/" alt="Media and other mentions of my work that made my mom proud of me.">Make Mom Proud</a></li>
               </ul>
             </nav>
           </div>
@@ -16,6 +16,7 @@
             <p>These are the things I've done to make sure my mom has something to brag about.</p>
             <p>
               <ul>
+                <li><a href="https://gcn.com/articles/2020/06/04/gsa-ai-bots.aspx" alt="" target="_blank" rel="noopener noreferrer">June 4, 2020 - GSA steps from automation to AI</a></li>
                 <li><a href="https://fcw.com/articles/2020/06/03/rockwell-ai-acquisition-gsa.aspx" alt="" target="_blank" rel="noopener noreferrer">June 3, 2020 - Automation is advancing in federal acquisition</a></li>
                 <li><a href="https://www.defenseone.com/feature/genius-machines-purchasing-with-the-power-of-artificial-intelligence/" alt="" target="_blank" rel="noopener noreferrer">June 3, 2020 - Defense One and Nextgov's Genius Machines: Purchasing with the Power of Artificial Intelligence</a></li>
                 <li><a href="https://governmentciomedia.com/how-emerging-tech-can-improve-federal-acquisition-processes" alt="" target="_blank" rel="noopener noreferrer">May 21, 2020 - How Emerging Tech Can Improve Federal Acquisition Processes</a></li>

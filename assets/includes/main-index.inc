@@ -29,14 +29,14 @@
         <div class="grid-container">
           <div class="usa-graphic-list__row grid-row grid-gap">
             <div class="usa-media-block tablet:grid-col">
-              <img class="usa-media-block__img home-circle"  src="assets/images/graduated.png" alt="Icon of Lady Justice created by Eucalyp on Flaticon.com.">
+              <img class="usa-media-block__img home-circle"  src="<?php echo $path;?>assets/images/graduated.png" alt="Icon of Lady Justice created by Eucalyp on Flaticon.com.">
               <div class="usa-media-block__body">
                 <h2 class="usa-graphic-list__heading">I'm a licensed Florida attorney.</h2>
                 <p>Depending on where I am working right now, I may not be able to represent you, but I keep my license active. I have represented people as well as companies.</p>
               </div>
             </div>
             <div class="usa-media-block tablet:grid-col">
-              <img class="usa-media-block__img home-circle"  src="assets/images/team.png" alt="Icon of an Agile Team created by Eucalyp on Flaticon.com.">
+              <img class="usa-media-block__img home-circle"  src="<?php echo $path;?>assets/images/team.png" alt="Icon of an Agile Team created by Eucalyp on Flaticon.com.">
               <div class="usa-media-block__body">
                 <h2 class="usa-graphic-list__heading">I'm a certified Scrum Master.</h2>
                 <p>Certifications don't equate to knowledge, but I like to think that my professional experiences, training, and mentors have gotten me to a point I have what it takes.</p>
@@ -45,14 +45,14 @@
           </div>
           <div class="usa-graphic-list__row grid-row grid-gap">
             <div class="usa-media-block tablet:grid-col">
-              <img class="usa-media-block__img home-circle"  src="assets/images/monument.png" alt="Icon of a government building created by Eucalyp on Flaticon.com.">
+              <img class="usa-media-block__img home-circle"  src="<?php echo $path;?>assets/images/monument.png" alt="Icon of a government building created by Eucalyp on Flaticon.com.">
               <div class="usa-media-block__body">
                 <h2 class="usa-graphic-list__heading">I enjoy public service.</h2>
                 <p>I started my legal career as an intern with the Miami-Dade Public Defender, represented teams working with various agencies, and worked for GSA at 18F, login.gov, and CoE.</p>
               </div>
             </div>
             <div class="usa-media-block tablet:grid-col">
-              <img class="usa-media-block__img home-circle"  src="assets/images/technology.png" alt="Icon of a person using the latest technology created by Eucalyp on Flaticon.com.">
+              <img class="usa-media-block__img home-circle"  src="<?php echo $path;?>assets/images/technology.png" alt="Icon of a person using the latest technology created by Eucalyp on Flaticon.com.">
               <div class="usa-media-block__body">
                 <h2 class="usa-graphic-list__heading">I automate everything I can.</h2>
                 <p>I love learning new things. Helping teams eliminate manual and rote tasks allows the specialistis to focus on what they're best at doing, bringing all of us up with them.</p>
