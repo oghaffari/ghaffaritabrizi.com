@@ -1,1 +1,1 @@
-<script src="assets/uswds/js/uswds.min.js"></script>
+<script src="<?php echo $path;?>assets/uswds/js/uswds.min.js"></script>

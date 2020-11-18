@@ -55,7 +55,7 @@
               <img class="usa-media-block__img home-circle"  src="<?php echo $path;?>assets/images/technology.png" alt="Icon of a person using the latest technology created by Eucalyp on Flaticon.com.">
               <div class="usa-media-block__body">
                 <h2 class="usa-graphic-list__heading">I automate everything I can.</h2>
-                <p>I love learning new things. Helping teams eliminate manual and rote tasks allows the specialistis to focus on what they're best at doing, bringing all of us up with them.</p>
+                <p>I love learning new things. Helping teams eliminate manual and rote tasks allows the specialists to focus on what they're best at doing, bringing all of us up with them.</p>
               </div>
             </div>
           </div>
