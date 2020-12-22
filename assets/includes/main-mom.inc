@@ -10,12 +10,35 @@
               </ul>
             </nav>
           </div>
+          <!--
+            <li><a href="URL" alt="" target="_blank" rel="noopener noreferrer">MONTH DD, 202Y - TEXT: Text</a></li>
+          -->
           <main class="usa-layout-docs__main desktop:grid-col-9 usa-prose usa-layout-docs" id="main-content">
             <h1>Making My Mom Proud</h1>
             <p class="usa-intro">Articles, Interviews, and Media Mentions</p>
-            <p>These are the things I've done to make sure my mom has something to brag about.</p>
+            <p>These are the things I've done to make sure my Mom has something to brag about.</p>
+            <h2>SITARA</h2>
+            <p>Mom and Dad always told my brothers and I that what would make them happiest - and proudest - would be if we were happy ourselves. The work I put into creating <a href="https://internetassociation.org/sitara/" alt="" target="_blank" rel="noopener noreferrer">SITARA</a> is probably the thing I have been happiest with in my professional career so far. Thanks, Mom and Dad.
             <p>
               <ul>
+                <li><a href="https://gcn.com/articles/2020/12/17/state-modernization-ratings.aspx" alt="" target="_blank" rel="noopener noreferrer">December 17, 2020 - GCN: Group rates states’ IT modernization work</a></li>
+                <li><a href="https://fcw.com/blogs/fcw-insider/2020/12/dec16topstories.aspx" alt="" target="_blank" rel="noopener noreferrer">December 16, 2020 - FCW Insider: Quick Hits</a></li>
+                <li><a href="https://www.spartnerships.com/pipeline/2020/government-contracting-pipeline-12-16-2020.html" alt="" target="_blank" rel="noopener noreferrer">December 16, 2020 - Government Contracting Pipeline: Minnesota, California, Florida rated most IT-ready states</a></li>
+                <li><a href="https://www.bgov.com/core/news/#!/articles/QLFJFAT0AFB4" alt="" target="_blank" rel="noopener noreferrer">December 16, 2020 - BGov Tech and Cyber Briefing (behind paywall): Internet Association Releases Cyber Mapping</a></li>
+                <li><a href="https://www.route-fifty.com/tech-data/2020/12/these-states-are-best-prepared-challenges-cybersecurity-civic-tech/170753/" alt="" target="_blank" rel="noopener noreferrer">December 15, 2020 - Route-Fifty: These States Are Best Prepared for Challenges to Cybersecurity, Civic Tech</a></li>
+                <li><a href="https://statescoop.com/internet-association-sitara-map/" alt="" target="_blank" rel="noopener noreferrer">December 15, 2020 - StateScoop: Tech lobby map rates states' cybersecurity and digital efforts</a></li>
+                <li><a href="https://federalnewsnetwork.com/ask-the-cio-sled/2020/12/dc-trade-association-assesses-state-governments-cybersecurity-readiness/" alt="" target="_blank" rel="noopener noreferrer">December 15, 2020 - Federal News Network: DC trade association assesses state governments’ cybersecurity readiness</a></li>
+                <li><a href="https://subscriber.politicopro.com/newsletter/2020/12/hack-campaign-puts-cisa-in-the-spotlight-792299">December 15, 2020 - POLITICO Pro Morning Cybersecurity (behind paywall): Skol, Cyber</a></li>
+                <li><a href="https://subscriber.politicopro.com/newsletter/2020/12/hack-campaign-puts-cisa-in-the-spotlight-792299">December 15, 2020 - Internet Association: IA Launches The SITARA Map Assessing U.S. States’ And Territories’ Cybersecurity Posture And IT Modernization Efforts</a></li>
+              </ul>
+            </p>
+            <h2>Other things</h2>
+            <p>My Mom really sacrificed a lot for our family, both in terms of personal goals and financial means. Hopefully these things are exciting enough that it all seems worth it!</p>
+            <p>
+              <ul>
+                <li><a href="https://livestream.com/accounts/17376047/events/9081844/videos/214925642" alt="" target="_blank" rel="noopener noreferrer">December 15, 2020 - New York City Council Committee on Technology: Meeting on T2020-6906, Assessment of the feasibility of storing city agencies' electronic data on cloud computing systems (testimony and Q&A from 1.23:00 onwards)</a></li>
+                <li><a href="https://insidecybersecurity.com/daily-news/industry-groups-weigh-cmmc-costs-guidelines-assessment-pentagon-interim-rule-takes-effect" alt="" target="_blank" rel="noopener noreferrer">December 4, 2020 - Inside Cybersecurity: Industry groups weigh in on CMMC costs, guidelines for assessment as Pentagon interim rule takes effect</a></li>
+                <li><a href="https://beta.regulations.gov/document/DARS-2020-0034-0113" alt="" target="_blank" rel="noopener noreferrer">November 30, 2020 - Comments on the DFARS rule change implementing the Cybersecurity Maturity Model Certification (CMMC).</a></li>
                 <li><a href="https://www.nextgov.com/cybersecurity/2020/11/government-reduces-representation-burdens-supply-chain-rule-banning-some-chinese-equipment/169721/" alt="" target="_blank" rel="noopener noreferrer">November 2, 2020 - Nextgov: Government Reduces Representation Burdens for Supply Chain Rule Banning Some Chinese Equipment</a></li>
                 <li><a href="https://www.actiac.org/events/reimagine-nation-elc-2020" alt="" target="_blank" rel="noopener noreferrer">October 27, 2020 - ACT-IAC ReImagine Nation ELC 2020: The Road Forward – Intersection of Emerging Technology and Procurement</a></li>
                 <li><a href="https://beta.regulations.gov/comment/FAR-2020-0051-0029" alt="" target="_blank" rel="noopener noreferrer">October 26, 2020 - Comments on Sequence No.2 of the FY2019 NDAA Section 889 Part B Rule Change</a></li>
