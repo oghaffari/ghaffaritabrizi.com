@@ -22,8 +22,6 @@
               <ul>
                 <li><a href="https://www.tvw.org/watch/?eventID=2021011456" alt="" target="_blank" rel="noopener noreferrer">January 25, 2021 - Washington House State Government & Tribal Relations Committee: Public Hearing on HB 1274, concerning cloud computing solutions (testimony and Q&A from 1:18:20 to 1:24:25)</a></li>
                 <li><a href="http://www.wcny.org/experts-warn-new-yorks-digital-infrastructure-needs-an-upgrade/" alt="" target="_blank" rel="noopener noreferrer">January 13, 2021 - Capitol Pressroom: Experts Warn New York's Digital Infrastructure Needs An Upgrade</a></li>
-              </ul>
-              <ul>
                 <li><a href="https://www.crainsnewyork.com/op-ed/cloud-computing-can-help-new-york-shift-focus-infrastructure-services" alt="" target="_blank" rel="noopener noreferrer">January 8, 2021 - Crain's New York Business (behind paywall): Cloud computing can help New York shift focus from infrastructure to services</a></li>
               </ul>
             </p>
