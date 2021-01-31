@@ -17,26 +17,30 @@
             <h1>Making My Mom Proud</h1>
             <p class="usa-intro">Articles, Interviews, and Media Mentions</p>
             <p>These are the things I've done to make sure my Mom has something to brag about.</p>
-            <h2>SITARA</h2>
-            <p>Mom and Dad always told my brothers and I that what would make them happiest - and proudest - would be if we were happy ourselves. The work I put into creating <a href="https://internetassociation.org/sitara/" alt="" target="_blank" rel="noopener noreferrer">SITARA</a> is probably the thing I have been happiest with in my professional career so far. Thanks, Mom and Dad.
+            <h3>2021</h3>
             <p>
               <ul>
+                <li><a href="https://www.tvw.org/watch/?eventID=2021011456" alt="" target="_blank" rel="noopener noreferrer">January 25, 2021 - Washington House State Government & Tribal Relations Committee: Public Hearing on HB 1274, concerning cloud computing solutions (testimony and Q&A from 1:18:20 to 1:24:25)</a></li>
+                <li><a href="http://www.wcny.org/experts-warn-new-yorks-digital-infrastructure-needs-an-upgrade/" alt="" target="_blank" rel="noopener noreferrer">January 13, 2021 - Capitol Pressroom: Experts Warn New York's Digital Infrastructure Needs An Upgrade</a></li>
+              </ul>
+              <ul>
+                <li><a href="https://www.crainsnewyork.com/op-ed/cloud-computing-can-help-new-york-shift-focus-infrastructure-services" alt="" target="_blank" rel="noopener noreferrer">January 8, 2021 - Crain's New York Business (behind paywall): Cloud computing can help New York shift focus from infrastructure to services</a></li>
+              </ul>
+            </p>
+            <h3>2020</h3>
+            <p>
+              <ul>
+                <li><a href="https://mn.gov/governor/news/?id=1055-460928" alt="" target="_blank" rel="noopener noreferrer">December 21, 2020 - Minnesota Governor Tim Walz: Minnesota Leads Nation in Cybersecurity and IT Modernization Efforts</a></li>
                 <li><a href="https://gcn.com/articles/2020/12/17/state-modernization-ratings.aspx" alt="" target="_blank" rel="noopener noreferrer">December 17, 2020 - GCN: Group rates states’ IT modernization work</a></li>
                 <li><a href="https://fcw.com/blogs/fcw-insider/2020/12/dec16topstories.aspx" alt="" target="_blank" rel="noopener noreferrer">December 16, 2020 - FCW Insider: Quick Hits</a></li>
                 <li><a href="https://www.spartnerships.com/pipeline/2020/government-contracting-pipeline-12-16-2020.html" alt="" target="_blank" rel="noopener noreferrer">December 16, 2020 - Government Contracting Pipeline: Minnesota, California, Florida rated most IT-ready states</a></li>
                 <li><a href="https://www.bgov.com/core/news/#!/articles/QLFJFAT0AFB4" alt="" target="_blank" rel="noopener noreferrer">December 16, 2020 - BGov Tech and Cyber Briefing (behind paywall): Internet Association Releases Cyber Mapping</a></li>
+                <li><a href="https://livestream.com/accounts/17376047/events/9081844/videos/214925642" alt="" target="_blank" rel="noopener noreferrer">December 15, 2020 - New York City Council Committee on Technology: Meeting on T2020-6906, Assessment of the feasibility of storing city agencies' electronic data on cloud computing systems (testimony and Q&A from 1:23:00 onwards)</a></li>
                 <li><a href="https://www.route-fifty.com/tech-data/2020/12/these-states-are-best-prepared-challenges-cybersecurity-civic-tech/170753/" alt="" target="_blank" rel="noopener noreferrer">December 15, 2020 - Route-Fifty: These States Are Best Prepared for Challenges to Cybersecurity, Civic Tech</a></li>
                 <li><a href="https://statescoop.com/internet-association-sitara-map/" alt="" target="_blank" rel="noopener noreferrer">December 15, 2020 - StateScoop: Tech lobby map rates states' cybersecurity and digital efforts</a></li>
                 <li><a href="https://federalnewsnetwork.com/ask-the-cio-sled/2020/12/dc-trade-association-assesses-state-governments-cybersecurity-readiness/" alt="" target="_blank" rel="noopener noreferrer">December 15, 2020 - Federal News Network: DC trade association assesses state governments’ cybersecurity readiness</a></li>
                 <li><a href="https://subscriber.politicopro.com/newsletter/2020/12/hack-campaign-puts-cisa-in-the-spotlight-792299">December 15, 2020 - POLITICO Pro Morning Cybersecurity (behind paywall): Skol, Cyber</a></li>
                 <li><a href="https://subscriber.politicopro.com/newsletter/2020/12/hack-campaign-puts-cisa-in-the-spotlight-792299">December 15, 2020 - Internet Association: IA Launches The SITARA Map Assessing U.S. States’ And Territories’ Cybersecurity Posture And IT Modernization Efforts</a></li>
-              </ul>
-            </p>
-            <h2>Other things</h2>
-            <p>My Mom really sacrificed a lot for our family, both in terms of personal goals and financial means. Hopefully these things are exciting enough that it all seems worth it!</p>
-            <p>
-              <ul>
-                <li><a href="https://livestream.com/accounts/17376047/events/9081844/videos/214925642" alt="" target="_blank" rel="noopener noreferrer">December 15, 2020 - New York City Council Committee on Technology: Meeting on T2020-6906, Assessment of the feasibility of storing city agencies' electronic data on cloud computing systems (testimony and Q&A from 1.23:00 onwards)</a></li>
                 <li><a href="https://insidecybersecurity.com/daily-news/industry-groups-weigh-cmmc-costs-guidelines-assessment-pentagon-interim-rule-takes-effect" alt="" target="_blank" rel="noopener noreferrer">December 4, 2020 - Inside Cybersecurity: Industry groups weigh in on CMMC costs, guidelines for assessment as Pentagon interim rule takes effect</a></li>
                 <li><a href="https://beta.regulations.gov/document/DARS-2020-0034-0113" alt="" target="_blank" rel="noopener noreferrer">November 30, 2020 - Comments on the DFARS rule change implementing the Cybersecurity Maturity Model Certification (CMMC).</a></li>
                 <li><a href="https://www.nextgov.com/cybersecurity/2020/11/government-reduces-representation-burdens-supply-chain-rule-banning-some-chinese-equipment/169721/" alt="" target="_blank" rel="noopener noreferrer">November 2, 2020 - Nextgov: Government Reduces Representation Burdens for Supply Chain Rule Banning Some Chinese Equipment</a></li>
@@ -63,6 +67,11 @@
                 <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6623302338050351104/" alt="" target="_blank" rel="noopener noreferrer">January 15, 2020 - DITAP training on Acqusition Innovation</a></li>
                 <li><a href="https://www.rfid-smart.com/article/family-open-sources-entrepreneur-s-rfid-solutions.html" alt="" target="_blank" rel="noopener noreferrer">January 13, 2020 - RFID Smart: Family Open Sources Entrepreneur's RFID Solutions</a></li>
                 <li><a href="https://governmentciomedia.com/gsa-explored-emerging-technologies-and-acquisition-innovation-2019" alt="" target="_blank" rel="noopener noreferrer">January 2, 2020 - Government CIO Media: GSA Explored Emerging Technologies and Acquisition Innovation in 2019 </a></li>
+              </ul>
+            </p>
+            <h3>2019</h3>
+            <p>
+              <ul>
                 <li><a href="https://www.federaltimes.com/it-networks/2019/12/06/how-the-pentagons-ai-team-can-benefit-civilian-agencies/" alt="" target="_blank" rel="noopener noreferrer">December 6, 2019 - Federal Times: How the Pentagon’s AI team can benefit civilian agencies</a></li>
                 <li><a href="https://governmentciomedia.com/cxo-tech-forum-ai-2019" alt="" target="_blank" rel="noopener noreferrer">December 5, 2019 - GovernmentCIO CXO Tech Forum: AI and RPA in Government</a></li>
                 <li><a href="https://fcw.com/articles/2019/10/31/rising-stars/rs_ghaffari.aspx" alt="" target="_blank" rel="noopener noreferrer">October 31, 2019 - FCW Government Innovation Rising Star Profile</a></li>
@@ -72,6 +81,11 @@
                 <li><a href="https://twitter.com/GSACoE/status/1141489654899888128" alt="" target="_blank" rel="noopener noreferrer">June 19, 2019 - NCMA DC Monthly Meeting</a></li>
                 <li><a href="https://twitter.com/GSACoE/status/1126217478856687616" alt="" target="_blank" rel="noopener noreferrer">May 8, 2019 - Tweet explaining why I stayed at CoE</a></li>
                 <li><a href="https://www.pscouncil.org/Shared_Content/Events/Event_Display?EventKey=1903TECH&WebsiteKey=502af8cb-491d-4e9b-b350-c7e3ff5bb9ee" alt="" target="_blank" rel="noopener noreferrer">March 5, 2019 - Professional Services Council: Discussion with the IT Modernization Centers of Excellence</a></li>
+              </ul>
+            </p>
+            <h3>2018 and before</h3>
+            <p>
+              <ul>
                 <li><a href="https://theoutline.com/post/4904/the-online-support-groups-for-former-inmates-and-their-loved-ones?zd=1&zi=hsb2waeg" alt="" target="_blank" rel="noopener noreferrer">June 10, 2018 - The Outline: The Online Groups for Former Inmates and Their Loved Ones</a></li>
                 <li><a href="https://www.congress.gov/congressional-report/115th-congress/senate-report/209/" alt="" target="_blank" rel="noopener noreferrer">February 26, 2018 - Report of the Committe on Homeland Security and Governmental Affairs, United States Senate, to accompany S. 1281</a></li>
                 <li><a href="https://digital.gov/2017/05/18/the-next-step-towards-a-bug-bounty-program-for-the-technology-transformation-service/" alt="" target="_blank" rel="noopener noreferrer">May 18, 2017 - Digital.gov: The Next Step Towards a Bug Bounty Program for the Technology Transformation Service</a></li>
