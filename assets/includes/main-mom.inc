@@ -15,9 +15,25 @@
           -->
           <main class="usa-layout-docs__main desktop:grid-col-9 usa-prose usa-layout-docs" id="main-content">
             <h1>Making My Mom Proud</h1>
-            <p class="usa-intro">Articles, Interviews, and Media Mentions</p>
+            <p class="usa-intro">Articles, Interviews, Talks, and Media Mentions</p>
             <p>These are the things I've done to make sure my Mom has something to brag about.</p>
             <h3>2021</h3>
+            <h4>March</h4>
+            <p>
+              <ul>
+                <li><a href="https://internetassociation.org/files/ia_ca-multi-association-letter-supporting-tmf-modernization_03-24-2021_cloud/" alt="" target="_blank" rel="noopener noreferrer">March 24, 2021 - Internet Association: Statement in support of modernizing the Technology Modernization Fund through the American Rescue Act</a></li>
+                <li><a href="https://www.tvw.org/watch/?clientID=9375922947&eventID=2021031165" alt="" target="_blank" rel="noopener noreferrer">March 11, 2021 - Washington Senate Environment, Energy & Technology Committee: Public Hearing on E2SHB 1274, concerning cloud computing solutions (testimony and Q&A from 0:25:50 to 0:29:25)</a></li>
+              </ul>
+            </p>
+            <h4>February</h4>
+            <p>
+              <ul>
+                <li><a href="https://www.fcc.gov/ecfs/filing/10217105148980" alt="" target="_blank" rel="noopener noreferrer">February 16, 2021 - Federal Communications Commission: Comments of Internet Association Supporting the use of E-Rate Funds for Remote Learning During the Covid-19 Pandemic</a></li>
+                <li><a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/522181612428427520/disruptive-technologies-in-public-procurement" alt="" target="_blank" rel="noopener noreferrer">February 4, 2021 - The World Bank Group: Disruptive Technologies in Public Procurement</a></li>
+                <li><a href="https://internetassociation.org/news/statement-on-internet-industry-letter-calling-for-additional-funds-for-the-technology-modernization-fund/" alt="" target="_blank" rel="noopener noreferrer">February 3, 2021 - Internet Association: Statement in support of President Biden's call for increasing funding to the Technology Modernization Fund</a></li>
+              </ul>
+            </p>
+            <h4>January</h4>
             <p>
               <ul>
                 <li><a href="https://www.tvw.org/watch/?eventID=2021011456" alt="" target="_blank" rel="noopener noreferrer">January 25, 2021 - Washington House State Government & Tribal Relations Committee: Public Hearing on HB 1274, concerning cloud computing solutions (testimony and Q&A from 1:18:20 to 1:24:25)</a></li>
@@ -26,6 +42,7 @@
               </ul>
             </p>
             <h3>2020</h3>
+            <h4>Q4</h4>
             <p>
               <ul>
                 <li><a href="https://mn.gov/governor/news/?id=1055-460928" alt="" target="_blank" rel="noopener noreferrer">December 21, 2020 - Minnesota Governor Tim Walz: Minnesota Leads Nation in Cybersecurity and IT Modernization Efforts</a></li>
@@ -45,11 +62,21 @@
                 <li><a href="https://www.actiac.org/events/reimagine-nation-elc-2020" alt="" target="_blank" rel="noopener noreferrer">October 27, 2020 - ACT-IAC ReImagine Nation ELC 2020: The Road Forward – Intersection of Emerging Technology and Procurement</a></li>
                 <li><a href="https://beta.regulations.gov/comment/FAR-2020-0051-0029" alt="" target="_blank" rel="noopener noreferrer">October 26, 2020 - Comments on Sequence No.2 of the FY2019 NDAA Section 889 Part B Rule Change</a></li>
                 <li><a href="https://digital.gov/2020/10/26/discovery-bpa-evaluation-process-how-to-operationalize-this-practice/" alt="" target="_blank" rel="noopener noreferrer">October 26, 2020 - Digital.gov: Discovery BPA Evaluation Process: How to Operationalize this Practice</a></li>
+              </ul>
+            </p>
+            <h4>Q3</h4>
+            <p>
+              <ul>
                 <li><a href="https://beta.regulations.gov/comment/FAR-2019-0009-0042" alt="" target="_blank" rel="noopener noreferrer">September 14, 2020 - Comments on Sequence No.1 of FY2019 NDAA Section 889 Part B Rule Change</a></li>
                 <li><a href="https://etc.g2xchange.com/statics/rising-gsa-centers-of-excellence-acquisitions-leader-exits/" alt="" target="_blank" rel="noopener noreferrer">July 29, 2020 - G2Exchange: Rising GSA Centers of Excellence Acquisitions Leader joins Internet Association</a></li>
                 <li><a href="https://www.politico.com/newsletters/politico-influence/2020/07/16/what-the-chamber-wants-in-the-next-relief-bill-https://www.politico.com/newsletters/morning-tech/2020/07/17/what-does-the-twitter-attack-mean-for-november-789250" alt="" target="_blank" rel="noopener noreferrer">July 17, 2020 - POLITICO Morning Tech: What does the Twitter attack mean for November?</a></li>
                 <li><a href="https://www.politico.com/newsletters/politico-influence/2020/07/16/what-the-chamber-wants-in-the-next-relief-bill-789227" alt="" target="_blank" rel="noopener noreferrer">July 16, 2020 - POLITICO Influence: What the Chamber wants in the next relief bill</a></li>
                 <li><a href="https://internetassociation.org/news/internet-association-hires-new-cloud-policy-director/" alt="" target="_blank" rel="noopener noreferrer">July 16, 2020 - Internet Association Hires New Cloud Policy Director</a></li>
+              </ul>
+            </p>
+            <h4>Q2</h4>
+            <p>
+              <ul>
                 <li><a href="https://gcn.com/articles/2020/06/04/gsa-ai-bots.aspx" alt="" target="_blank" rel="noopener noreferrer">June 4, 2020 - GCN: GSA steps from automation to AI</a></li>
                 <li><a href="https://fcw.com/articles/2020/06/03/rockwell-ai-acquisition-gsa.aspx" alt="" target="_blank" rel="noopener noreferrer">June 3, 2020 - FCW: Automation is advancing in federal acquisition</a></li>
                 <li><a href="https://www.defenseone.com/feature/genius-machines-purchasing-with-the-power-of-artificial-intelligence/" alt="" target="_blank" rel="noopener noreferrer">June 3, 2020 - Defense One and Nextgov's Genius Machines: Purchasing with the Power of Artificial Intelligence</a></li>
@@ -59,6 +86,11 @@
                 <li><a href="https://www.actiac.org/events/act-iac-emerging-technology-coi-may-2020" alt="" target="_blank" rel="noopener noreferrer">May 19, 2020 - Emerging Technology Uses Cases in Acquisition</a></li>
                 <li><a href="https://governmentciomedia.com/listen-gsa-centers-excellence-ai-leaders-omid-ghaffari-tabrizi-krista-kinnard" alt="" target="_blank" rel="noopener noreferrer">May 13, 2020 - GovernmentCIO GovCast Podcast: Season 3, Episode 15</a></li>
                 <li><a href="https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/" alt="" target="_blank" rel="noopener noreferrer">April 24, 2020 - Digital.gov: Experimenting with the Micro-Purchase Threshold</a></li>
+              </ul>
+            </p>
+            <h4>Q1</h4>
+            <p>
+              <ul>
                 <li><a href="https://digital.gov/event/2020/03/25/navigating-acquisition-procurement-for-artificial-intelligence/" alt="" target="_blank" rel="noopener noreferrer">March 25, 2020 - AI Community of Practice: Navigating Acquisition and Procurement for Artificial Intelligence and Advanced Data Analytics</a></li>
                 <li><a href="https://18f.gsa.gov/2020/03/18/an-acquisition-retrospective/" alt="" target="_blank" rel="noopener noreferrer">March 18, 2020 - 18F Blog: An Acquisition Retrospective</a></li>
                 <li><a href="https://nova.afceachapters.org/event/2nd-annual-intelligence-community-it-day" alt="" target="_blank" rel="noopener noreferrer">February 19, 2020 - AFCEA NOVA 2nd Annual Intelligence Community IT Day</a></li>

@@ -4,7 +4,7 @@
         <div class="grid-container">
           <div class="usa-hero__callout">
             <h1 class="usa-hero__heading"><span class="usa-hero__heading--alt">Support charity:</span>
-            </h1><p>The <a href="https://cceflorida.org/" alt="The Center for Creative Education's website." target="_blank" rel="noopener noreferrer">Center for Creative Education</a> has a <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=13923" alt="Charity Navigator's profile on the Center for Creative Education." target="_blank" rel="noopener noreferrer">perfect 100</a> on Charity Navigator.</p><a class="usa-button" href="https://cceflorida.org/donate/" alt="The Center for Creative Education's donation page." target="_blank" rel="noopener noreferrer">Become a supporter</a>
+            </h1><p><a href="https://www.achanceinlife.org/" alt="A Chance In Life's website." target="_blank" rel="noopener noreferrer">A Chance In Life</a> has a <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=16343" alt="Charity Navigator's profile on A Chance In Life." target="_blank" rel="noopener noreferrer">perfect 100</a> on Charity Navigator.</p><a class="usa-button" href="https://www.achanceinlife.org/donate-now.html" alt="A Chance In Life's donation page." target="_blank" rel="noopener noreferrer">Become a supporter</a>
           </div>
         </div>
       </section>
