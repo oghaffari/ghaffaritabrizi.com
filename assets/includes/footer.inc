@@ -12,6 +12,12 @@
               <a class="usa-footer__primary-link" href="<?php echo $path;?>make-mom-proud/" alt="Media and other mentions of my work that made my mom proud of me.">Media Mentions</a>
             </li>
             <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+              <a class="usa-footer__primary-link" href="<?php echo $path;?>make-dad-proud/" alt="Projects and ventures that would have made my dad proud of me.">Side Projects</a>
+            </li>
+            <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+              <a class="usa-footer__primary-link" href="https://www.letoupao.org/" alt="The official website of the LeTouPAO Foundation." target="_blank" rel="noopener noreferrer">LeTouPAO Foundation</a>
+            </li>
+            <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
               <a class="usa-footer__primary-link" href="https://www.linkedin.com/in/oghaffari/" alt="A link to my LinkedIn profile." target="_blank" rel="noopener noreferrer">LinkedIn</a>
             </li>
             <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">

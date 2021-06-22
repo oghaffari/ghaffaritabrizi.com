@@ -18,7 +18,7 @@
           <div class="tablet:grid-col-8 usa-prose">
             <p>My name is Omid Ghaffari-Tabrizi. I was born in Minnesota and raised in South Florida. I have lived in a few different places, but currently call D.C. my home. Despite how muggy the summers are, this city is incredible!</p>
             <p>I learned about the internet when two babysitters introduced me to <a href="https://en.wikipedia.org/wiki/Mosaic_(web_browser)" alt="The Wikipedia article on Mosaic, the web browser." target="_blank" rel="noopener noreferrer">Mosaic</a>. They were hired by an organization to update their website to reflect the winner of the NBA Finals as soon as the game was over.</p>
-            <p>I couldn't believe I was sitting in the room where two young college students that had only recently come to the US, changed something on my computer in a matter of seconds (with a few minutes of uploading), and the entire world could see what they did.</p>
+            <p>I couldn't believe I was sitting in the room where two young college students that had only recently come to the U.S., changed something on my computer in a matter of seconds (with a few minutes of uploading), and the entire world could see what they did.</p>
             <p>So I did what I could to be involved with technology.</p>
           </div>
         </div>

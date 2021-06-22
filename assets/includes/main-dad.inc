@@ -12,10 +12,20 @@
               </ul>
             </nav>
           </div>
+          <!--
+            <li><a href="URL" alt="" target="_blank" rel="noopener noreferrer">MONTH DD, 202Y - TEXT: Text</a></li>
+          -->
           <main class="usa-layout-docs__main desktop:grid-col-9 usa-prose usa-layout-docs" id="main-content">
-            <h1>Error</h1>
-            <p class="usa-intro">Sorry, didn't find that page!</p>
-            <p>Click on any of the links on this page to try again.</p>
+            <h1>Making My Dad Proud</h1>
+            <p class="usa-intro">Experiments, Projects, and Ventures</p>
+            <p>These are the things I've built that I think would have made my Dad proud.</p>
+            <h3>Continuing His Work</h3>
+            <p>
+              <ul>
+                <li><a href="http://www.activewaveinc.com/" alt="" target="_blank" rel="noopener noreferrer">Active Wave, Inc.'s official website</a></li>
+                <li><a href="https://github.com/tourajghaffari/tigerfid" alt="" target="_blank" rel="noopener noreferrer">TigeRFID's GitHub repo</a></li>
+              </ul>
+            </p>
           </main>
         </div>
       </div>

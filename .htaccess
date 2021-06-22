@@ -18,4 +18,5 @@ RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 RewriteRule  ^/?$  index.php
 RewriteRule  ^liverpool-fc/?$  liverpool-fc.php
 RewriteRule  ^make-mom-proud/?$  make-mom-proud.php
+RewriteRule  ^make-dad-proud/?$  make-dad-proud.php
 RewriteRule  ^error/?$  error.php

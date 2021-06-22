@@ -7,6 +7,8 @@
                 <li class="usa-sidenav__item"><a href="<?php echo $path;?>" alt="The home page and where I provide a little information about myself.">About Me</a></li>
                 <li class="usa-sidenav__item"><a href="<?php echo $path;?>liverpool-fc/" alt="A page that has a few quotes and things I like related to Liverpool FC.">Liverpool FC</a></li>
                 <li class="usa-sidenav__item"><a href="<?php echo $path;?>make-mom-proud/" alt="Media and other mentions of my work that made my mom proud of me.">Make Mom Proud</a></li>
+                <li class="usa-sidenav__item"><a href="<?php echo $path;?>make-dad-proud/" alt="Projects and ventures that would have made my dad proud of me.">Make Dad Proud</a></li>
+                <li class="usa-sidenav__item"><a href="https://www.letoupao.org/" alt="The official website of the LeTouPAO Foundation." target="_blank" rel="noopener noreferrer">LeTouPAO Foundation</a></li>
               </ul>
             </nav>
           </div>
@@ -38,7 +40,7 @@
             <p><a href="https://vimeo.com/334946533" alt="A great highlight video of Liverpool's victory over FC Barcelona in the 2019 Champions League Semifinal." target="_blank" rel="noopener noreferrer">Liverpool won on 4-3 aggregate</a> after being 3-0 down from the first leg in what was considered the greatest Champions League comeback of all time. <a href="https://streamable.com/ztyj0" alt="Part 1 of a great highlight video of Liverpool's run through the Champions League in 2019." target="_blank" rel="noopener noreferrer">Liverpool's run</a> culminated with <a href="https://streamable.com/tvfhu" alt="Part 2 of a great highlight video of Liverpool's run through the Champions League in 2019." target="_blank" rel="noopener noreferrer">a Final</a> against Tottenham.</p>
             <h2>Thank you, Peter</h2>
             <p>
-              My friend, <a href="http://marcoislandlaw.com/" alt=""  target="_blank" rel="noopener noreferrer">Peter Huy</a>, has gone to Anfield and seen some of the greatest games in LFC's recent history. He will never let me forget that he not only went before I did, but probably can never go again because nothing will top his experiences.
+              My friend, <a href="https://www.huyjacob.com/" alt="" target="_blank" rel="noopener noreferrer">Peter Huy</a>, has gone to Anfield and seen some of the greatest games in LFC's recent history. He will never let me forget that he not only went before I did, but probably can never go again because nothing will top his experiences.
             </p>
             <p><a href="<?php echo $path;?>assets/images/lfc-barca-program.jpg" alt="A link to the full size photo of the actual program from the game Liverpool beat Barcelona." target="_blank" rel="noopener noreferrer"><img src="<?php echo $path;?>assets/images/lfc-barca-program.jpg" alt="A picture of the actual program from the game Liverpool beat Barcelona." class="lfc-photo" /></a></p>
           </main>
