@@ -21,7 +21,7 @@
             <h3>2025</h3>
             <p>
               <ul>
-                <li><a href="https://www.worldbank.org/en/events/2024/12/19/govtech-and-public-sector-innovation-global-forum" alt="" target="_blank" rel="noopener noreferrer">May 27, 2025 - The World Bank Group: GovTech and Public Sector Innovation Global Forum - Transforming Institutions in the Age of AI</a></li>
+                <li><a href="https://www.tradeandcompliance.org/wold-bank-govtech-and-public-sector-innovation-global-forum.html" alt="" target="_blank" rel="noopener noreferrer">May 27, 2025 - The World Bank Group: GovTech and Public Sector Innovation Global Forum - Transforming Institutions in the Age of AI</a></li>
                 <li><a href="https://events.govexec.com/the-2025-new-agenda/agenda/" alt="" target="_blank" rel="noopener noreferrer">May 1, 2025 - NextGov/FCW: The New Agenda</a></li>
                 <li><a href="https://x.com/USGSA/status/1911132376375218465" alt="" target="_blank" rel="noopener noreferrer">April 12, 2025 - GSA: Post advertising the Google agreement</a></li>
                 <li><a href="https://x.com/elonmusk/status/1910756386885034221" alt="" target="_blank" rel="noopener noreferrer">April 11, 2025 - Elon Musk: Post approving the GSA and Google agreement</a></li>
